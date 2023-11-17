@@ -3,6 +3,8 @@ Websita ini saya buat untuk menguji pemahaman saya terkait html, css dan javascr
 
 Website ini dibuat berdasarkan referensi tutorial keren dari channel youtube @bedimcode yang bisa kalian temukan pada link ini https://youtu.be/cgV2tN8gxCg?si=EbKyFDsmW33pedAE
 
+Lihat demo website disini : https://iambeno.github.io/lomba-landing-page-fostifest
+
 ![image](https://github.com/iambeno/lomba-landing-page-fostifest/assets/132084722/a31cc553-8471-4f30-baf8-b38e8806181c)
 
 ![image](https://github.com/iambeno/lomba-landing-page-fostifest/assets/132084722/cc687d24-077f-43fc-a740-c7f33df8e1ec)
